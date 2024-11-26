@@ -1,0 +1,9 @@
+# Node.js dependency folder 
+node_modules/ 
+# Logs and temporary files 
+*.log 
+*.tmp 
+# Personal configuration files 
+.env 
+.DS_Store 
+# Build directories 
